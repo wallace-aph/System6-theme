@@ -1,9 +1,12 @@
+#System 6 (?) theme
 
 Created by Wallace/!Ftubuntu6s - http://ubuntufag.cf - github.com/ubuntufag
 
 Based on the Platinum theme
 
 A clone of the old Macintosh System 6 Desktop, with a few stylistic changes.
+
+<img src=https://i.imgur.com/JcGLhQv.png>
 
 ---------
 
