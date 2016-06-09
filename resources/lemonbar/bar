@@ -1,0 +1,7 @@
+#!/bin/bash
+while true
+do
+echo "%{B#ffffff}%{F#000000}      (|)      %{F#848484}File%{F#000000}    Edit    View    Label    Special %{r} $(date "+%I:%M %p")   "
+trap "echo Exited; exit;" SIGINT SIGTERM
+sleep 1m
+done
